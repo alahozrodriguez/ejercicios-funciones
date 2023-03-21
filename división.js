@@ -5,5 +5,5 @@ function division(a,b) {
         return a/b;
     }
 }
-let resd = division(9,3);
-console.log('El resultado de dividir 9 entre 3 es '+resd);
+let resd = division(8,2);
+console.log('El resultado de dividir 8 entre 2 es '+resd);
